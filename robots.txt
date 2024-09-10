@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fniilm.github.io/SWk/sitemap.SWk.gz
